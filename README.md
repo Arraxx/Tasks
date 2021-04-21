@@ -8,3 +8,8 @@
 
 ## Incomplete :
 ### Task 6
+
+For Running the File 
+### Download the Tasks.py file and hash.xml file
+### Import streamlit, numpy, Cv2
+### streamlit run Tasks.py
