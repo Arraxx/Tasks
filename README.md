@@ -9,5 +9,5 @@
 
 For Running the File 
 ### Download the Tasks.py file and hash.xml file
-### Import streamlit, numpy, Cv2
+### Import streamlit, numpy, Cv2, matplotlib, io, time.
 ### streamlit run Tasks.py
